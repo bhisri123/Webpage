@@ -1,0 +1,39 @@
+.plus-icon {
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 10px; 
+}
+
+.hidden {
+    display: none;
+}
+
+.filter-container {
+    text-align: right;
+    margin: 10px;
+}
+
+
+.filter-container {
+    text-align: right;
+    margin: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px; 
+    grid-row-gap: 40px; 
+}
+
+.grid-item {
+    background-color: white ;
+    padding: 55px;
+    text-align: center;
+    border: 1.7px solid black;
+    border-radius: 8px;
+    width: 120px; 
+}
+
+
